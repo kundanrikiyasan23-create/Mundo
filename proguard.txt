@@ -1,0 +1,5 @@
+-keep class com.ncore.** {*; }
+-keep class com.ncore.jnihook.** {*; }
+-keep class black.** {*; }
+-keep class android.** {*; }
+-keep class com.android.** {*; }
