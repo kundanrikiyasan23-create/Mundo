@@ -90,10 +90,10 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
     //implementation 'com.android.tools.build:apksig:4.2.0'
     //implementation 'org.lsposed.hiddenapibypass:hiddenapibypass:6.1'
-    implementation 'com.github.tiann:FreeReflection:3.2.2'
+ //   implementation 'com.github.tiann:FreeReflection:3.2.2'
    // implementation project(":black-reflection")
    // annotationProcessor project(":black-reflection")
-    implementation 'com.github.CodingGay.BlackReflection:core:1.1.2'
+//    implementation 'com.github.CodingGay.BlackReflection:core:1.1.2'
     annotationProcessor 'com.github.CodingGay.BlackReflection:compiler:1.1.2'
     
     // Code number 1 se add kiye gaye dependencies
