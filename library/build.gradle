@@ -1,6 +1,6 @@
 plugins {
    id 'com.android.library'
-    id 'org.lsposed.lsparanoid'
+    
   id 'org.jetbrains.kotlin.android'
 }
 
